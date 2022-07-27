@@ -2,6 +2,12 @@
 
 hello me yes
 
+pronouns: he/they
+
+twitter: twitter.com/logzinga
+youtube: youtube.com/logzinga
+kofi: ko-fi.com/logzinga
+
 <!--
 **logzinga/logzinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
