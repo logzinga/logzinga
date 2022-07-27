@@ -5,7 +5,9 @@ hello me yes
 pronouns: he/they
 
 twitter: twitter.com/logzinga
+
 youtube: youtube.com/logzinga
+
 kofi: ko-fi.com/logzinga
 
 <!--
