@@ -10,7 +10,6 @@ youtube: youtube.com/logzinga
 
 kofi: ko-fi.com/logzinga
 
-<img src='https://media.discordapp.net/attachments/976656051522895946/1002003778339352636/unnamed.jpg?width=654&height=654'>
 
 
 <!--
