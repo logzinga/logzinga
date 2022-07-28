@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hello me yes
+it me logzinga (fox man)
 
 pronouns: he/they
 
